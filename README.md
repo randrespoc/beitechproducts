@@ -8,8 +8,8 @@ Para desplegar éste proyecto, por favor siga las siguientes intrucciones:
 - Clone el proyecto en su servidor.
 - Vaya al directorio raíz del proyecto.
 - Ejecute el comando: composer update
-- Ejecute el comando: php artisan key:generate
 - Si el archivo .env no existe, creelo con el contenido que se encuentra en .env.example  .
+- Ejecute el comando: php artisan key:generate
 - Edite el archivo .env con los datos adecuados de conexión a la base de datos.
 - Para arrancar el servicio, ejecute el comando: php artisan serve
 - Si todo funciona correctamente, podrá acceder al sitio en: http://127.0.0.1:8000/
