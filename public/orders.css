@@ -1,0 +1,40 @@
+body{
+    background-color: #270052;
+}
+
+.head{
+    background-color: #000;
+    color: #fff;
+}
+
+.content{
+    background-color: #fff;
+    border-radius: 0 0 10px 10px;
+}
+
+.title{
+    margin-bottom: 20px;
+    margin-top: 15px;
+}
+
+.no-data{
+    margin: 15px;
+    text-align: center;
+    display: none;
+}
+
+.loading{
+    margin: 15px;
+    text-align: center;
+    color: #989898;
+    display: none;
+}
+
+.data{
+    display: none;
+    margin-top: 20px;
+}
+
+.prod small{
+    color: #777;
+}
